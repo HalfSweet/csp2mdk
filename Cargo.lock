@@ -131,7 +131,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "csp2keil"
+name = "csp2mdk"
 version = "0.1.0"
 dependencies = [
  "clap",
